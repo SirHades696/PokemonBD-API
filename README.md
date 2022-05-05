@@ -17,7 +17,7 @@ La información mostrada por esta API es:
 La información extraída de la página web es a través de Pandas, además se utiliza un poco de web scraping para anexar la imagen de cada Pokémon al registro correspondiente.
 
 # ¿Qué Packages son necesarios?
-Todos los recursos usados para el desarrollo del bot se encuentran en: `requirements.txt`
+Todos los recursos usados para el desarrollo se encuentran en: `requirements.txt`
 
 > `pip install -r requirements.txt`
 
